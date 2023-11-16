@@ -1,7 +1,7 @@
 # Pokemon Master: Victory Road
 
 ## Creator: 
-Phuong Khanh Tran
+Phuong Khanh Tran (Jade)
 
 ## Introduction:
 Get ready for an electrifying gaming experience with Pokemon Master: Victory Road! Immerse yourself in an interactive 2D world where you, the ultimate Pokemon Trainer, embark on an epic journey filled with thrilling battles, adventures, and challenges.
